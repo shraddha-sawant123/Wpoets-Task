@@ -1,0 +1,20 @@
+
+JSON file Exlpaination
+
+{
+  "info":[
+  {
+     "name":"shraddha sawant",
+     "Last Comapny":"trulysafe",
+     "Experience":"15 months",
+     "Role":"Web developer",
+     "Technologies":"PHP,Wordpress,MongoDB,Laravel,SQL,Bootstrap",
+     "Can Join":"Immediatly",
+     "Course":"6 months WEB development Diploma course",
+     "Passout Year":"2018 BE IT",
+     "Previous Salary":"17000/m",
+     "Expected salary":"Above 20000/m"
+   }
+]
+
+}
